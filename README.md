@@ -13,7 +13,6 @@
 Hello, I'm a student of Information Systems at Cin - UFPE, Brazil and I am learning to code. 🌟 
 
 - 🌱 I’m currently learning Python
-- 💻 I'm interested in artificial intelligence 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisdka&show_icons=true&theme=dracula)
 
